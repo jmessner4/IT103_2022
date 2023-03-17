@@ -1,0 +1,94 @@
+#Article {
+    background-color: #fafafa;
+    padding: 10px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 10px 5px 5px  lightslategray
+}
+
+#Article{
+    padding: 0px 20px 20px 20px;
+    margin-bottom: 10px;
+}
+
+legend {
+    color: lightslategray;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label {
+    margin-top: 10px;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label.inline {
+    display: inline;
+    margin-right: 50px;
+}
+
+input, textarea {
+    background-color: #d3ecf8;
+    padding: 3px;
+    border: 1px solid #d3ecf8;
+    border-radius: 5px;
+    width: 200px;
+    box-shadow: 1px 1px 2ox #C0C0C0 inset;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type=submit] {
+    width: 100px;
+    margin-left: 5px;
+    box-shadow: 1px 1px 1px lightslategray;
+    cursor: pointer;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:lightslategrey;
+}
+#Reply {
+    background-color: #fafafa;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Reply{
+    padding: 0px 20px 20px 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightslategray;
+}
+
+.photo{
+    float : right;
+    display: flex;
+    
+}
+
+#Title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:lightslategrey;
+    font-size: 30px;
+}
+
+.Modif1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:lightslategrey;
+    float : right;
+}
+
+#TitreArt{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.auteur{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color: lightslategrey;
+}
+
